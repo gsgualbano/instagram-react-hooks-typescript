@@ -1,7 +1,9 @@
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="drawing" width="65"/>
-<img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="drawing" width="65" height="65"/>
-<img src="https://cdn-images-1.medium.com/max/2600/1*-Ijet6kVJqGgul6adezDLQ.png" alt="drawing" height="65"/>
-<img src="https://www.styled-components.com/static/atom.png" alt="drawing" width="65" height="65"/>
+<p align="left">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="drawing" width="65"/>
+  <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="drawing" width="65" height="65"/>
+  <img src="https://cdn-images-1.medium.com/max/2600/1*-Ijet6kVJqGgul6adezDLQ.png" alt="drawing" height="65"/>
+  <img src="https://www.styled-components.com/static/atom.png" alt="drawing" width="65" height="65"/>
+</p>
 
 # Instagram Clone React Hooks Typescript
 
@@ -11,7 +13,7 @@ A simply Instagram clone made with React, TypeScript, React-Hooks and Styled Com
 
 It's required to have nodejs and npm(or yarn) installed in order to use this application.
 
-Node(it includes npm): [click here to download](https://github.com/user/repo/blob/branch/other_file.md)
+Node(it includes npm): [click here to download](https://nodejs.org/en/download/)
 
 Yarn(Optional): [click here to download](https://yarnpkg.com/lang/en/docs/install/)
 
