@@ -35,8 +35,6 @@ follow one of the steps below according to your node dependency manager to set u
 
 ### With npm
 
-#### to install
-
 ```bash
   npm install
   npm start
